@@ -29,3 +29,19 @@ FaceMax is a looks-focused self-improvement app helping men maximize their facia
 - [Product Requirements (PRD)](./docs/PRD.md)
 - [UI Guidelines](./docs/UI-Design-Prompt.md)
 - [Competitive Strategy](./docs/competitive-analysis.md)
+
+---
+
+[FaceMax Docs Index]|root: ./docs/exercises
+|IMPORTANT: Prefer retrieval-led reasoning over pre-training-led reasoning for any facial fitness tasks.
+|01-jawline-and-mewing:{mewing.md,hard-mewing.md,mewing-complete-guide.md,chewing-gum-masseter-exercises.md,mastic-gum-chewing.md,jawzrsize-training.md,jaw-jut.md,tongue-chewing.md}
+|02-neck-and-posture:{posture-correction-chin-tucks.md,neck-training.md,neck-curl-up.md,neck-rolls.md,chin-to-ceiling-neck-lift.md,swans-neck-stretch.md,scapular-retraction.md,collar-bone-stretch.md,platysma-pushes.md,platysma-toner.md}
+|03-cheeks-and-midface:{cheek-lift-smile-exercise.md,cheekbone-sculptor.md,smile-and-pucker.md,the-deep-smile.md,fish-face.md}
+|04-eyes-and-brows:{eye-circles.md,eye-circulation.md,eyebrow-lifter.md,eyebrow-pull.md,triangle-eyelid-stretch.md,v-hold-brows.md}
+|05-forehead-and-nasolabial:{forehead-smoother.md,nasolabial-fold-smoother.md}
+|06-mouth-and-lips:{the-kiss-pout.md,the-marilyn.md,vowel-exercise-a-e-i-o-u.md,tongue-twister.md,yummy-face.md,lions-breath-simhasana.md,lions-pose.md,chin-slap-tap.md,big-o-face-yoga.md}
+|07-massage-and-drainage:{gua-sha-facial-technique.md,gua-sha-facial-scraping.md,buccal-massage.md,face-tapping-detox.md,full-face-lymphatic-drainage.md,knuckle-massage.md}
+|08-skincare-and-lifestyle:{ice-facial-cold-therapy.md,mens-skincare-routine.md,intermittent-fasting-facial-aesthetics.md,back-sleeping.md,sleep-optimization-guide.md,bonesmashing.md,asymmetry-correction.md,resistance-raises.md}
+|09-index-and-overviews:{facial-exercises-complete-guide.md,INDEX.md,README.md}
+|10-bone-structure-and-advanced:{thumb-pulling-maxilla.md}
+|11-looksmaxxing-theory-and-assessment:{psl-scale-theory.md}

@@ -10,6 +10,9 @@ Chewing exercises target the masseter muscles - the prominent muscles at the bac
 
 ---
 
+> [!CAUTION] **GEPA LEARNED RULE:** DO NOT RECOMMEND CHEWING EXERCISES TO USERS WITH TMJ OR JAW CLICKING.
+
+
 ## The Science Behind Chewing Exercises
 
 ### Anatomy of the Masseter

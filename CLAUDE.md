@@ -25,6 +25,10 @@ FaceMax is a looks-focused self-improvement app helping men maximize their facia
 3. **Design:** Dark, premium, masculine (Oura/Whoop aesthetic).
 4. **Ethics:** No toxicity. Science-backed advice only.
 
+## AI-Generated Content
+
+**`ai-gen/`** folder stores all AI-generated marketing and design assets (images, copy, social posts). When using any skill to generate AI images, save outputs directly to this folder.
+
 ## Quick Links
 - [Product Requirements (PRD)](./docs/PRD.md)
 - [UI Guidelines](./docs/UI-Design-Prompt.md)

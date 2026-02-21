@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(uv run:*)",
+      "Bash(git -C /Users/sachinsmac/Documents/GitHub/FaceMax status)",
+      "Bash(git -C /Users/sachinsmac/Documents/GitHub/FaceMax add .gitignore .claude)"
+    ]
+  }
+}
